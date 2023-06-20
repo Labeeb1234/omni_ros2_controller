@@ -1,0 +1,7 @@
+<library>
+    <class name="omni_drive_controller/OmniDriveController" type="omni_drive_controller::OmniDriveController" base_class_type="controller_interface::ControllerInterface">
+        <description>
+            omni drive controller for a four wheel omni wheeled robot.
+        </description>
+    </class>
+</library>
